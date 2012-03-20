@@ -1,0 +1,110 @@
+% LaTeX resume using res.cls
+\documentclass[line,margin,11pt]{res} 
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+\addtolength{\oddsidemargin}{-.5in}
+	\addtolength{\evensidemargin}{-.5in}
+	\addtolength{\textwidth}{.6in}
+
+	\addtolength{\topmargin}{-.5in}
+	\addtolength{\textheight}{1.75in}
+\begin{document}
+
+\name{Kyle Wenholz}
+% \address used twice to have two lines of address
+\address{1311 N. Alder, Tacoma, WA 98406}
+\address{(406) 546-9210, kwenholz@pugetsound.edu}
+
+ 
+\begin{resume}
+\vspace*{.15cm}
+\section{OBJECTIVE} Mathematics and English Tutoring Position 
+ 
+\section{EDUCATION} {\sl Bachelor of Science} \\
+                % \sl will be bold italic in New Century Schoolbook (or
+	        % any postscript font) and just slanted in
+		% Computer Modern (default) font
+                University of Puget Sound, Tacoma, WA 
+                expected June 2013 \\
+                Majors: Mathematics, Computer Science \\
+                Cumulative GPA: 3.77
+
+\vspace*{.1cm}
+
+ 
+\section{EXPERIENCE} 
+{\sl Computer Science Tutor} \hfill 
+    Fall 2010 - Present \\
+        University of Puget Sound\\
+        \begin{itemize}  
+            \item Tutored several hours weekly during scheduled office hours.
+            \item Prepared students for exams with practice problem assistance
+              and general guidance.
+            \item Directed students in finding appropriate and useful resources
+              for study or assistance outside of tutoring hours.
+        \end{itemize}
+
+{\sl Computer Science Grader} \hfill 
+    Fall 2010 - Spring 2011 \\
+        University of Puget Sound\\
+        \begin{itemize}  
+            \item Graded assignments for an introductory Java course.
+            \item Helped professor to critique assignments for future use.
+        \end{itemize}
+ 
+{\sl Research Assistant} \hfill        
+    Summer 2011 - Present \\
+        University of Puget Sound\\
+        \begin{itemize}
+        \item Develop software for professors to visualize live student 
+          behavior in a classroom programming session.
+        \item Collaborate with professors to understand their needs and 
+          requirements for the product.
+        \end{itemize}
+  
+\vspace*{.1cm}
+
+
+\section{RELEVANT ACTIVITIES AND\\ COURSES}
+{\sl Mathematical Contest in Modelling} \hfill Spring 2011
+ 		\begin{itemize}
+ 		\item Collaborated with a team to develop a software simulation
+                  of radio repeater coordination.
+ 		\item Attained the Meritorious designation (top 18\%).
+ 		\end{itemize}
+
+{\sl Applicable Courses at the University of Puget Sound} \hfill
+ 		\begin{itemize}
+ 		\item Honors 101, 211, 150, 212, 206, 214: Fall 2009 - Fall 2011
+ 		\item Math 181, 280: Calculus Sequence Fall 2009-Spring 2010
+ 		\end{itemize}	
+\vspace*{.1cm}
+ 	
+\section{ACADEMIC HONORS}
+	Phi Eta Sigma Honors Society\\
+	Selected into Coolidge Otis Chapman Honors Scholar Program
+	
+
+\end{resume}
+
+% HERE I CAN ADD ANY OTHER RELEVANT SECTIONS:
+% COMPUTER SKILLS, SPECIFIC EXPERIENCE, ETC.
+
+
+
+% CUTOUTS
+
+%{\sl Phi Eta Sigma Honors Society} \hfill Spring 2010 - Present\\           
+% 	\begin{itemize}
+%		\item Assisted in organizing various fund-raisers.
+%		\item Participated in more than 20 hours of community service per semester.
+%		\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
