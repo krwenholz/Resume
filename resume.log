@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2012.10.26)  12 NOV 2012 12:36
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.1.15)  10 MAR 2013 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -86,7 +86,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
  310 strings out of 493488
- 3348 string characters out of 3146891
+ 3348 string characters out of 3146892
  55478 words of memory out of 3000000
  3695 multiletter control sequences out of 15000+200000
  5213 words of font info for 19 fonts, out of 3000000 for 9000
@@ -97,7 +97,7 @@ nts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></u
 sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 72231 bytes).
+Output written on resume.pdf (1 page, 72245 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
