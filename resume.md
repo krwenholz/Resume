@@ -1,7 +1,8 @@
 Kyle R. Wenholz
 ===============
 
-1220 North 45th Street, Apt 201, Seattle, WA 98103
+1220 North 45th Street Apt 201
+Seattle, WA 98103
 kyle@krwenholz.com
 (406)546-9210
 
@@ -15,16 +16,15 @@ Work Experience
     updates with repair vendors
     - Enable continuous deployment of systems through unit and integration
     tests
-    - Led several engineers in migrating item evaluation tools to string ids
-    for localization, and individually developed a translation checking tool
-    for our content
+    - Led several engineers in migrating item evaluation tools to use string ids
+    - Developed a translation checking tool for internal products
     - Extended tax and accounting software to support operations in Spain,
     Canada, and China
 
 *   **CentsLess LLC**, Tacoma, WA
 
     Lead Engineer, May 2012 - January 2013
-    - Implemented back and front-end development of Lendingshack.com to enable
+    - Worked on user interface and server side of Lendingshack.com, a site for
     peer to peer sharing
     - Administrated development related accounts, services, and technology
     choices.
@@ -56,33 +56,13 @@ Education
 
     - Bachelor of Science, May 2013
     - Mathematics, Computer Science
-    - Cumulative GPA: 3.77
-
-*   Honors
-
     - Magna Cum Laude
     - Coolidge Otis Chapman Honors Scholar
-    - Upsilon Pi Epsilon Member
+    - Member of Phi Beta Kappa and Upsilon Pi Epsilon
 
 Skills
 ------
 
-*   Languages: Python, Java, SQL, HTML
+*   Languages: Java, Python, SQL, HTML
 
-*   Software: Sage Mathematics, Amazon Web Services
-
-*   Miscellaneous: Proficient with LaTeX, Git source control, Linux systems
-
-Activities
-----------
-
--   Competitor, Mathematical Contest in Modeling: Collaborated on a team of
-    three to develop software simulations of radio repeater coordination
-    (2011, top \%18) and river raft trips (2012, top \%38) presented in a
-    technical paper for the contest
-
--   President of Association for Computing Machinery and of Upsilon Pi Epsilon
-    (2012-2013), University of Puget Sound chapters: coordinated bi-weekly
-    meetings, led software development projects for school sustainability
-    services and departments, and organized yearly trip to Linuxfest Northwest
-
+*   Software: Sage Mathematics, Amazon Web Services, LaTeX, Git, Linux
