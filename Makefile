@@ -1,7 +1,7 @@
-SRC = $(wildcard *.md)
+SRC = $(wildcard *.mkd)
 
-PDFS=$(SRC:.md=.pdf)
-HTML=$(SRC:.md=.html)
+PDFS=$(SRC:.mkd=.pdf)
+HTML=$(SRC:.mkd=.html)
 LATEX_TEMPLATE=./pandoc-templates/default.latex
 
 all:    clean $(PDFS) $(HTML)
@@ -9,15 +9,15 @@ all:    clean $(PDFS) $(HTML)
 pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
-%.html: %.md
+%.html: %.mkd
 	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
 
-%.pdf:  %.md $(LATEX_TEMPLATE)
+%.pdf:  %.mkd $(LATEX_TEMPLATE)
 	python resume.py tex < $< | pandoc --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
 ifeq ($(OS),Windows_NT)
   # on Windows
-  RM = cmd //C del
+  RM = cmkd //C del
 else
   # on Unix
   RM = rm -f
