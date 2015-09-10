@@ -11,13 +11,17 @@ Work Experience
 
 *   **Amazon.com**, Seattle, WA
 
-    Software Development Engineer Warehouse Deals, May 2013 - Present
+    Software Development Engineer II Warehouse Deals, March 2015 - Present
+
+    Software Development Engineer Warehouse Deals, May 2013 - February 2015
+    - Design and implement a software platform for reverse logistics
     - Automate manual processes for communicating financial and inventory
-    updates with repair vendors
+    updates with vendors
     - Enable continuous deployment of systems through unit and integration
     tests
-    - Led several engineers in migrating item evaluation tools to use string ids
-    - Developed a translation checking tool for internal products
+    - Review code, designs, and roadmaps for projects across multiple teams
+    - Led several engineers in localizing fulfillment center software: building
+    translation checking, verification, and business-facing management tools
     - Extended tax and accounting software to support operations in Spain,
     Canada, and China
 
@@ -65,4 +69,4 @@ Skills
 
 *   Languages: Java, Python, SQL, HTML
 
-*   Software: Sage Mathematics, Amazon Web Services, LaTeX, Git, Linux
+*   Software: Amazon Web Services, LaTeX, Git, Unix, Spring
