@@ -16,7 +16,7 @@ Work Experience
     Software Development Engineer Warehouse Deals, May 2013 - February 2015
     - Designed and implemented a software platform for reverse logistics
     - Automated manual processes for communicating financial and inventory
-    updates with vendors
+    updates to vendors
     - Enabled continuous deployment of systems through unit and integration
     tests
     - Reviewed code, designs, and roadmaps for projects across multiple teams
@@ -68,5 +68,4 @@ Skills
 ------
 
 *   Languages: Java, Python, SQL, HTML
-
 *   Software: Amazon Web Services, LaTeX, Git, Unix, Spring
