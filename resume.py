@@ -111,6 +111,7 @@ def tex(lines, contact_lines, *args):
         contact_lines = sub(r'([^\\])\%s' % c, r'\1\%s' % c, contact_lines)
 
     lines.insert(0, "\\begin{nospace}\\begin{flushright}\n" +
+                    "\\setlength{\\parskip}{.5pt}\n" +
                     contact_lines +
                     "\n\\end{flushright}\\end{nospace}\n")
 
