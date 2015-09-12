@@ -14,12 +14,12 @@ Work Experience
     Software Development Engineer II Warehouse Deals, March 2015 - Present
 
     Software Development Engineer Warehouse Deals, May 2013 - February 2015
-    - Design and implement a software platform for reverse logistics
-    - Automate manual processes for communicating financial and inventory
+    - Designed and implemented a software platform for reverse logistics
+    - Automated manual processes for communicating financial and inventory
     updates with vendors
-    - Enable continuous deployment of systems through unit and integration
+    - Enabled continuous deployment of systems through unit and integration
     tests
-    - Review code, designs, and roadmaps for projects across multiple teams
+    - Reviewed code, designs, and roadmaps for projects across multiple teams
     - Led several engineers in localizing fulfillment center software: building
     translation checking, verification, and business-facing management tools
     - Extended tax and accounting software to support operations in Spain,
