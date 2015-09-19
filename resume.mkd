@@ -14,44 +14,44 @@ Work Experience
     Software Development Engineer II Warehouse Deals, March 2015 - Present
 
     Software Development Engineer Warehouse Deals, May 2013 - February 2015
-    - Designed and implemented a software platform for reverse logistics
+    - Worked with other senior engineers to design, specify, and build a 
+    a new software platform for our billion dollar reverse logistics 
+    business on AWS technologies.
     - Automated manual processes for communicating financial and inventory
-    updates to vendors
-    - Enabled continuous deployment of systems through unit and integration
-    tests
-    - Reviewed code, designs, and roadmaps for projects across multiple teams
+    updates to vendors with asynchronous and event-driven workflows: saving
+    over 200 man hours per week worldwide. Additionally, the business was 
+    able to see inventory changes in near real-time rather than weeks or
+    months later.
     - Led several engineers in localizing fulfillment center software: building
-    translation checking, verification, and business-facing management tools
+    translation checking, verification, and business-facing management tools.
+    These tools enabled real-time translation changes of fulfillment center
+    software, compared to previous wait times of weeks for changes to take 
+    affect, and reduced weekly error rates by 50%.
     - Extended tax and accounting software to support operations in Spain,
-    Canada, and China
+    Canada, and China. Worked with multiple teams on short deadlines, 
+    coordinating developer, accountant, and project manager efforts to 
+    gather requirements, build new components, and verify changes.
+    - Enabled continuous deployment of systems through unit and integration
+    tests with tools like Mockito and JUnit; provided technical talks for
+    teams; and developed new solutions to automated UI testing, deployment 
+    configuration, and monitoring.
+    - Reviewed code, designs, and roadmaps for projects across multiple teams.
 
 *   **CentsLess LLC**, Tacoma, WA
 
     Lead Engineer, May 2012 - January 2013
     - Worked on user interface and server side of Lendingshack.com, a site for
-    peer to peer sharing
+    peer to peer sharing.
     - Administrated development related accounts, services, and technology
     choices.
 
-*   **Intel Corporation**, Dupont, WA
-
-    Intern BIOS Engineer, May 2012 - August 2012
-    - Implemented Klocwork security scans, enhancing code reliability and
-    minimizing vulnerabilities
-    - Assembled data visualizations with Tableau for team metrics and
-    presentations
-
 *   **Mathematics and Computer Science Department**, University of Puget Sound
 
-    Computer Science Tutor and Grader, Fall 2010 - Present
-    - Graded assignments for an introductory Java course
-    - Tutored up to six students several hours weekly
-
     Research Assistant, May 2011 - December 2011
-    - Prototyped software for tracking student behavior
+    - Prototyped software for tracking student coding behavior.
     - Designed an instructor interface for real-time, in class, data
-    visualization
-    - Investigated novice programmer reactions to compile-time delays
+    visualization.
+    - Investigated novice programmer reactions to compile-time delays.
 
 Education
 ---------
