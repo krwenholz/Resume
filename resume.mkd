@@ -14,42 +14,37 @@ Work Experience
     Software Development Engineer II Warehouse Deals, March 2015 - Present
 
     Software Development Engineer Warehouse Deals, May 2013 - February 2015
-    - Designed, specified, and built a new software platform for a billion 
-    dollar reverse logistics business on AWS technologies
-    - Reduced workflow development time from weeks to days by implementing
-    a service for hosting and abstracting Simple Workflow workers
+    - Designed, specified, and built a new, AWS based software platform for
+    a billion dollar reverse logistics business 
+    - Reduced workflow launch time from days to hours by implementing a 
+    service for hosting and abstracting Simple Workflow workers
     - Automated manual processes for communicating financial and inventory
-    updates to vendors with asynchronous and event-driven workflows: saving
+    updates to vendors with asynchronous and event-driven workflows, saving
     over 200 man hours per week worldwide
     - Integrated inventory tracking tools with a business portal, providing
-    real-time analytics.
+    real-time analytics to replace monthly reports
     - Led three engineers in localizing fulfillment center software and 
     building translation management tools, reducing time to live by weeks
     and error rates by 50%
-    - Extended tax and accounting software to support operations in Spain,
-    Canada, and China. Worked with multiple teams on short deadlines, 
-    coordinating developer, accountant, and project manager efforts to 
-    gather requirements, build new components, and verify changes.
+    - Extended tax and accounting software to support international operations
     - Enabled continuous deployment of systems through unit and integration
     tests with tools like Mockito and JUnit
     - Performed technical talks for teams and developed new solutions to 
     automated UI testing, deployment configuration, and monitoring
-    - Reviewed code, designs, and roadmaps for projects across multiple teams.
+    - Reviewed code, designs, and roadmaps for projects across multiple teams
 
 *   **CentsLess LLC**, Tacoma, WA
 
     Lead Engineer, May 2012 - January 2013
-    - Worked on user interface and server side of Lendingshack.com, a site for
-    peer to peer sharing
-    - Administrated development related accounts, services, and technology
-    choices
+    - Built Lendingshack.com with  open-source frameworks and tools like 
+    Django and Bootstrap, a site for peer to peer sharing
+    - Deployed, operated, and monitored Lendingshack.com on Heroku
 
 *   **Mathematics and Computer Science Department**, University of Puget Sound
 
     Research Assistant, May 2011 - December 2011
-    - Prototyped software for tracking student coding behavior
-    - Designed an instructor interface for real-time, in class, data
-    visualization
+    - Designed and prototyped an instructor interface for real-time, in class, 
+    data visualization of student programming behavior
     - Investigated novice programmer reactions to compile-time delays
 
 Education
@@ -57,8 +52,10 @@ Education
 
 *   University of Puget Sound, Tacoma, WA
 
-    - Bachelor of Science, May 2013
-    - Mathematics, Computer Science
+    Bachelor of Science, May 2013
+
+    Mathematics, Computer Science
+
     - Magna Cum Laude and Coolidge Otis Chapman Honors Scholar
     - Member of Phi Beta Kappa and Upsilon Pi Epsilon
 
