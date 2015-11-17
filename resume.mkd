@@ -36,8 +36,8 @@ Work Experience
 *   **CentsLess LLC**, Tacoma, WA
 
     Lead Engineer, May 2012 - January 2013
-    - Built Lendingshack.com with  open-source frameworks and tools like 
-    Django and Bootstrap, a site for peer to peer sharing
+    - Built Lendingshack.com, a site for peer to peer sharing, with 
+    open-source frameworks and tools like Django and Bootstrap
     - Deployed, operated, and monitored Lendingshack.com on Heroku
 
 *   **Mathematics and Computer Science Department**, University of Puget Sound
