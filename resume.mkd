@@ -1,8 +1,8 @@
 Kyle R. Wenholz
 ===============
 
-1220 North 45th Street Apt 201
-Seattle, WA 98103
+6423 17th Avenue NW
+Seattle, WA 98107
 kyle@krwenholz.com
 (406)546-9210
 
@@ -47,8 +47,8 @@ Work Experience
     data visualization of student programming behavior
     - Investigated novice programmer reactions to compile-time delays
 
-Education
----------
+Education and Skills
+------
 
 *   University of Puget Sound, Tacoma, WA
 
@@ -56,11 +56,5 @@ Education
 
     Mathematics, Computer Science
 
-    - Magna Cum Laude and Coolidge Otis Chapman Honors Scholar
-    - Member of Phi Beta Kappa and Upsilon Pi Epsilon
-
-Skills
-------
-
-*   Languages: Java, Python, SQL, HTML
-*   Software: Amazon Web Services, LaTeX, Git, Unix, Spring
+*   Languages: Java, Python, HTML
+*   Software: Google Cloud Platform, Amazon Web Services, Git, Unix, Kubernetes
