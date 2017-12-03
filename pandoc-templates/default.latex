@@ -8,6 +8,7 @@
 \IfFileExists{microtype.sty}{\usepackage{microtype}}{}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[utf8]{inputenc}
+\def\tightlist{}
 $if(euro)$
   \usepackage{eurosym}
 $endif$
