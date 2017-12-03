@@ -9,9 +9,18 @@ kyle@krwenholz.com
 Work Experience
 ---------------
 
+*   Google, Seattle, WA
+
+    Software Engineer 2 and 3, February 2016 - Present
+
+    - service registry with dns full road map
+    - alert configurations with testing time to create and dashboards across multiple services
+    - command line utility design and implementation and testing
+    - intern project design and mentorship
+
 *   **Amazon.com**, Seattle, WA
 
-    Software Development Engineer I and II Warehouse Deals, May 2013 - Present
+    Software Development Engineer I and II Warehouse Deals, May 2013 - January 2016
 
     - Designed, specified, and built a new, AWS based software platform for
     a billion dollar reverse logistics business
