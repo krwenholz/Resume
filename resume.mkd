@@ -9,12 +9,12 @@ kyle@krwenholz.com
 Work Experience
 ---------------
 
-*   Google, Seattle, WA
+*   **Google, Seattle, WA**
 
     Software Engineer 2 and 3, February 2016 - Present
 
     - Designed and hosted an intern project for scheduled infrastructure
-    deployments accounting for fault tolerance, debugging options, and
+    deployments accounting for fault tolerance, debugging options,
     extensibility and open sourcing
     - Owned the Google Cloud Service Registry: determining roadmap items;
     adding atomic updates, concurrent update locks, and rollbacks; and
@@ -23,13 +23,13 @@ Work Experience
     Type Registry, and Service Registry Google Cloud services
     - Automated monitoring configurations with text-based tools: enabling testing
     and dashboards which reduced the time to create alerts and monitoring
-    for new systems from a week to hours
+    for new systems from one week to hours
 
-*   **Amazon.com**, Seattle, WA
+*   **Amazon.com, Seattle, WA**
 
-    Software Development Engineer I and II Warehouse Deals, May 2013 - January 2016
+    Software Development Engineer 1 and 2 Warehouse Deals, May 2013 - January 2016
 
-    - Designed, specified, and built a new, AWS based software platform for
+    - Designed, specified, and built a new AWS based software platform for
     a billion dollar reverse logistics business
     - Reduced workflow launch time from days to hours by implementing a
     service for hosting and abstracting Simple Workflow workers
@@ -48,7 +48,7 @@ Work Experience
     automated UI testing, deployment configuration, and monitoring
     - Reviewed code, designs, and roadmaps for projects across multiple teams
 
-*   **CentsLess LLC**, Tacoma, WA
+*   **CentsLess LLC, Tacoma, WA**
 
     Lead Engineer, May 2012 - January 2013
     - Built Lendingshack.com, a site for peer to peer sharing, with 
@@ -58,5 +58,7 @@ Work Experience
 Education and Skills
 ------
 
+*   Bachelor of Science Computer Science and Mathematics from University of
+    Puget Sound 2013
 *   Languages: Java, Python, HTML
 *   Software: Google Cloud Platform, Amazon Web Services, Git, Unix, Kubernetes
