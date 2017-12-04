@@ -13,10 +13,17 @@ Work Experience
 
     Software Engineer 2 and 3, February 2016 - Present
 
-    - service registry with dns full road map
-    - alert configurations with testing time to create and dashboards across multiple services
-    - command line utility design and implementation and testing
-    - intern project design and mentorship
+    - Designed and hosted an intern project for scheduled infrastructure
+    deployments accounting for fault tolerance, debugging options, and
+    extensibility and open sourcing
+    - Owned the Google Cloud Service Registry: determining roadmap items;
+    adding atomic updates, concurrent update locks, and rollbacks; and
+    overseeing the eventual deprecation process
+    - Designed and wrote command line utilities for Deployment Manager,
+    Type Registry, and Service Registry Google Cloud services
+    - Automated monitoring configurations with text-based tools: enabling testing
+    and dashboards which reduced the time to create alerts and monitoring
+    for new systems from a week to hours
 
 *   **Amazon.com**, Seattle, WA
 
