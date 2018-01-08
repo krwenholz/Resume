@@ -58,7 +58,7 @@ Work Experience
 Education and Skills
 ------
 
-*   Bachelor of Science Computer Science and Mathematics from University of
-    Puget Sound 2013
+*   Bachelor of Science in Computer Science and Mathematics from University of
+    Puget Sound, 2013
 *   Languages: Java, Python, HTML
 *   Software: Google Cloud Platform, Amazon Web Services, Git, Unix, Kubernetes
