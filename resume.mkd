@@ -11,7 +11,7 @@ Work Experience
 
 *   **Google, Seattle, WA**
 
-    Software Engineer 2 and 3, February 2016 - Present
+    Software Engineer III, February 2016 - Present
 
     - Designed and hosted an intern project for scheduled infrastructure
     deployments accounting for fault tolerance, debugging options,
@@ -27,7 +27,7 @@ Work Experience
 
 *   **Amazon.com, Seattle, WA**
 
-    Software Development Engineer 1 and 2 Warehouse Deals, May 2013 - January 2016
+    Software Development Engineer I and II Warehouse Deals, May 2013 - January 2016
 
     - Designed, specified, and built a new AWS based software platform for
     a billion dollar reverse logistics business
@@ -51,7 +51,7 @@ Work Experience
 *   **CentsLess LLC, Tacoma, WA**
 
     Lead Engineer, May 2012 - January 2013
-    - Built Lendingshack.com, a site for peer to peer sharing, with 
+    - Built Lendingshack.com, a site for peer to peer sharing, with
     open-source frameworks and tools like Django and Bootstrap
     - Deployed, operated, and monitored Lendingshack.com on Heroku
 
