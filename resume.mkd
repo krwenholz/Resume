@@ -9,9 +9,23 @@ kyle@krwenholz.com
 Work Experience
 ---------------
 
+*   **Karat Inc, Seattle, WA**
+
+    Senior Software Engineer, Engineering Manager, March 2018 - Present
+
+    - Leading a team of two, designed and built a video chat application to conduct hundreds
+    of daily live interviews. Leveraged Twilio (Voice, Video, SMS, and Chat) and WebRTC on
+    top of a Rails application.
+    - Worked as technical lead and mentor for teams of three to seven: providing code
+    and design reviews, determining infrastructure purchases and choices, working out
+    on-boarding plans, and designing sprint and development processes.
+    - TODO(kyle): infrastructure work with Terraform and security team
+    - TODO(kyle): interviews for senior and junior roles
+    - TODO(kyle): backend video and data processing in Python with AWS Lambda and Fargate
+
 *   **Google, Seattle, WA**
 
-    Software Engineer III, February 2016 - Present
+    Software Engineer III, February 2016 - March 2018
 
     - Designed and hosted an intern project for scheduled infrastructure
     deployments accounting for fault tolerance, debugging options,
