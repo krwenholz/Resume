@@ -83,11 +83,10 @@ Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - Jan
 
 ### CentsLess LLC, Tacoma, WA
 
-Lead Engineer\null\hfill May 2012 - January 2013
+Co-Lead Engineer\null\hfill May 2012 - January 2013
 
-- Built Lendingshack.com, a site for peer to peer sharing, with
-  open-source frameworks and tools like Django and Bootstrap
-- Deployed, operated, and monitored Lendingshack.com on Heroku
+Built Lendingshack.com, a site for peer to peer sharing. Used open-source frameworks and
+tools, like Django and Bootstrap, on Heroku.
 
 \rule{\textwidth}{0.3pt}
 
