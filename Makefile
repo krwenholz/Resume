@@ -4,16 +4,22 @@ PDFS=$(SRC:.md=.pdf)
 HTML=$(SRC:.md=.html)
 LATEX_TEMPLATE=./pandoc-templates/default.latex
 
-all:   clean $(PDFS) $(HTML)
+all:   clean docker_setup $(PDFS) $(HTML)
+
+docker_setup:
+	docker build --tag pandoc/latex-resume:1.0 .
+	mkdir -p .tmp
 
 pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
+	python resume.py html $(GRAVATAR_OPTION) < $< > .tmp/resume.html.md
+	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` pandoc/latex-resume:1.0  .tmp/resume.html.md -t html -c resume.css -o $@
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
-	python resume.py tex < $< | pandoc $(PANDOCARGS) --variable subparagraph --template=$(LATEX_TEMPLATE) -H header.tex -o $@
+	python resume.py tex < $< > .tmp/resume.tex.md
+	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` pandoc/latex-resume:1.0 .tmp/resume.tex.md $(PANDOCARGS) --variable subparagraph --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
 ifeq ($(OS),Windows_NT)
   # on Windows
