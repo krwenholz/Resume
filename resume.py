@@ -158,7 +158,7 @@ def main():
     lines = sys.stdin.readlines()
 
     contact_lines = []
-    for line in lines[3:]:
+    for line in lines[2:]:
         lines.remove(line)
         parts = [x.strip() for x in line.split("•")]
         if parts == [""]:
