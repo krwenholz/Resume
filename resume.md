@@ -36,6 +36,8 @@ Senior Software Engineer\null\hfill March 2018 - March 2019
 - Built out preference and notification systems across client and interview engineer user groups.
 - Organized and deployed all infrastructure as code with Terraform across a dozen AWS services with another engineer.
 
+\ornamentbreak
+
 ### Google, Seattle, WA
 
 Software Engineer III\null\hfill February 2016 - March 2018
@@ -51,6 +53,8 @@ Software Engineer III\null\hfill February 2016 - March 2018
 - Automated monitoring configurations with text-based tools: enabling testing
   and dashboards which reduced the time to create alerts and monitoring
   for new systems from one week to hours
+
+\ornamentbreak
 
 ### Amazon.com, Seattle, WA
 
@@ -75,6 +79,8 @@ Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - Jan
   automated UI testing, deployment configuration, and monitoring
 - Reviewed code, designs, and roadmaps for projects across multiple teams
 
+\ornamentbreak
+
 ### CentsLess LLC, Tacoma, WA
 
 Lead Engineer\null\hfill May 2012 - January 2013
@@ -90,6 +96,6 @@ Lead Engineer\null\hfill May 2012 - January 2013
 Bachelor of Science in Computer Science and Mathematics from University of
 Puget Sound, 2013
 
-Languages: Java, Python, HTML
+**Languages**: Python, PostgreSQL, Ruby, Java, HTML
 
-Software: Google Cloud Platform, Amazon Web Services, Git, Unix, Kubernetes
+**Some Software**: Amazon Web Services, Google Cloud Platform, Git, Unix
