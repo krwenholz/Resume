@@ -62,6 +62,7 @@ class Processor(object):
 
         return handler(lines, contact_lines, *args)
 
+
 processor = Processor()
 
 
@@ -71,21 +72,22 @@ def tex(lines, contact_lines, *args):
         """Replacement for re.sub that doesn't replace pattern it's inside the
         first latex command argument brackets.  Kind of a hack."""
 
-        flags = kwargs.pop('flags', 0) | re.X | re.M
+        flags = kwargs.pop("flags", 0) | re.X | re.M
 
         num_groups = re.compile(pattern, flags).groups
-        pattern = r"""
+        pattern = (
+            r"""
             (^|}{)   # beginning of line or second argument
             ([^{}\n\r]*) # disallow { and }
             %s
             ([^{}\n\r]*)
-        """ % pattern
+        """
+            % pattern
+        )
 
-        repl = re.sub(r"\\(\d)",
-                      lambda m: r"\%d" % (int(m.group(1)) + 2), repl)
+        repl = re.sub(r"\\(\d)", lambda m: r"\%d" % (int(m.group(1)) + 2), repl)
 
-        return re.sub(pattern, r"\1\2%s\%d" % (repl, num_groups + 3), string,
-                      flags=flags, **kwargs)
+        return re.sub(pattern, r"\1\2%s\%d" % (repl, num_groups + 3), string, flags=flags, **kwargs)
 
     # pandoc doesn't seem to support markdown inside latex blocks, so we're
     # just going to hardcode the two most common link formats for now so people
@@ -93,34 +95,32 @@ def tex(lines, contact_lines, *args):
     def replace_links(line):
         line = re.sub(r"<([^:]+@[^:]+?)>", r"\href{mailto:\1}{\1}", line)
         line = re.sub(r"<(http.+?)>", r"\url{\1}", line)
+        line = re.sub(r"<(https.+?)>", r"\url{\1}", line)
         return re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\href{\2}{\1}", line)
 
     contact_lines = "\n\n".join(map(replace_links, contact_lines))
 
     # replacements to apply to the text in contact_lines, because it won't be
     # processed by pandoc
-    replace = {
-        '~': r"\\textasciitilde{}"
-    }
-    escape = ['#']
+    replace = {"~": r"\\textasciitilde{}"}
+    escape = ["#"]
 
     for search in replace:
         contact_lines = sub(search, replace[search], contact_lines)
 
     for c in escape:
-        contact_lines = sub(r'([^\\])\%s' % c, r'\1\%s' % c, contact_lines)
+        contact_lines = sub(r"([^\\])\%s" % c, r"\1\%s" % c, contact_lines)
 
-    lines.insert(0, "\\begin{nospace}\\begin{flushright}\n" +
-                    "\\setlength{\\parskip}{.5pt}\n" +
-                    contact_lines +
-                    "\n\\end{flushright}\\end{nospace}\n")
+    lines.insert(
+        0, "\\begin{nospace}\\begin{flushright}\n\\vspace{-2em}" + contact_lines + "\n\\end{flushright}\\end{nospace}\n"
+    )
 
     return "".join(lines)
 
 
 @processor.register
 def html(lines, contact_lines, *args):
-    untex = ['LaTeX']
+    untex = ["LaTeX"]
 
     for word in untex:
         # yuck
@@ -130,15 +130,15 @@ def html(lines, contact_lines, *args):
 
     gravatar = None
     for line in contact_lines:
-        if '@' in line and '--no-gravatar' not in args:
-            gravatar = GRAVATAR.format(
-                hash=hashlib.md5(line.lower().strip('<>')).hexdigest())
+        if "@" in line and "--no-gravatar" not in args:
+            gravatar = GRAVATAR.format(hash=hashlib.md5(line.lower().strip("<>").encode("utf-8")).hexdigest())
             break
     if gravatar is not None:
         contact_lines.insert(0, "<img src='{}' />".format(gravatar))
 
-    lines.insert(0, "<div id='container'><div id='contact'>%s</div>\n" %
-                 ("<p>" + "</p><p>".join(contact_lines) + "</p>"))
+    lines.insert(
+        0, "<div id='container'><div id='contact'>%s</div>\n" % ("<p>" + "</p><p>".join(contact_lines) + "</p>")
+    )
     lines.insert(1, "<div>")
     lines.append("</div>")
 
@@ -151,9 +151,8 @@ def main():
     except IndexError:
         raise Exception("No format specified")
 
-    if '-h' in sys.argv or '--help' in sys.argv:
-        sys.stderr.write(
-            "Usage: python resume.py tex|html [--no-gravatar] < INPUT.md\n")
+    if "-h" in sys.argv or "--help" in sys.argv:
+        sys.stderr.write("Usage: python resume.py tex|html [--no-gravatar] < INPUT.md\n")
         raise SystemExit
 
     lines = sys.stdin.readlines()
@@ -162,12 +161,13 @@ def main():
     for line in lines[3:]:
         lines.remove(line)
         parts = [x.strip() for x in line.split("•")]
-        if parts == ['']:
+        if parts == [""]:
             break
 
         contact_lines.extend(parts)
 
     print(processor.process(format, lines, contact_lines, *sys.argv[1:]))
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
