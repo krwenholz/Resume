@@ -14,70 +14,72 @@ Engineering Leader: Delivery\null\hfill March 2020 - Present
 Coaching, managing, and directing to deliver numbers such as
 
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
-- 3 hours between candidate scheduling and interviewing with predictable consistency
+- Three hours between candidate scheduling and interviewing with predictable consistency
 - 200 load balanced and performance managed interview engineers across dozens of content formats
 - 10s of thousands of successfully conducted interviews on a suite of modern interviewing tools
-- 7 happy and successful direct reports
+- Eight happy and successful direct reports
 
-Engineering Manager\null\hfill March 2018 - March 2020
+Engineering Manager\null\hfill March 2019 - March 2020
 
-Leading Data and Delivery to provide software for key business insights, data infrastructure, and the core interview experience.
+Built a small team of three focused on all things data by focusing myself on
 
-- Drive initiatives to lower COGS by double digit percentages while maintaining greater than 4/5 star candidate satisfaction rating.
-- Mentor and coach a team of six: software engineers ranging from intern to senior, data analysts, and a data scientist.
-- Collaborate with the product manager to plan yearly and quarterly KPIs, OKRs, and projects.
-- Engage reports in planning their work and successfully executing on more than 70% of quarterly objectives.
-- Maintain team's focus on large projects by delivering on non-blocking projects like interview engineer onboarding enhancements (3/week to >10), invoicing, and data transformations.
+- Working with a product manager to target customer's needs in yearly and quarterly OKRs, and projects
+- Planning work with reports and executing on more than 70% of quarterly objectives
+- Writing software for non-blocking projects:
+  - interview engineer onboarding enhancements (3/week to >10)
+  - invoicing
+  - data transformations
+- Growing to six direct reports: software engineers ranging from intern to senior, data analysts, and a data scientist
 
 Senior Software Engineer\null\hfill March 2018 - March 2019
 
-- Designed and led a small team in building a video chat application with Twilio (WebRTC) to replace Google Hangouts and service thousands of monthly interviews.
-- Worked with another senior engineer to organize subteams, sprint processes with PMs, and build best practices through postmortem culture, design documents, and healthy code reviews.
-- Built out preference and notification systems across client and interview engineer user groups.
-- Organized and deployed all infrastructure as code with Terraform across a dozen AWS services with another engineer.
+Tackled thorny problems with a small team like
+
+- Design and build a video chat application with Twilio to replace Google Hangouts
+- Organize subteams with another senior engineer, sprint processes with PMs
+- Build best practices through a blameless postmortem culture, design documents, and healthy code reviews
+- Built out preference and notification systems across client and interview engineer user groups
+- Organized and deployed all infrastructure as code with Terraform across a dozen AWS services with another engineer
+
+**Languages and frameworks**: Python, Ruby, Rails, PostgreSQL, Metabase, AWS, WebRTC, Twilio, Terraform
 
 \ornamentbreak
 
 ### Google, Seattle, WA
 
-Software Engineer III\null\hfill February 2016 - March 2018
+Software Engineer III\null\hfill February 2017 - March 2018
 
-- Designed and hosted an intern project for scheduled infrastructure
-  deployments accounting for fault tolerance, debugging options,
-  extensibility and open sourcing
-- Owned the Google Cloud Service Registry: determining roadmap items;
-  adding atomic updates, concurrent update locks, and rollbacks; and
-  overseeing the eventual deprecation process
-- Designed and wrote command line utilities for Deployment Manager,
-  Type Registry, and Service Registry Google Cloud services
-- Automated monitoring configurations with text-based tools: enabling testing
-  and dashboards which reduced the time to create alerts and monitoring
-  for new systems from one week to hours
+Wrote robust code for a challenging problem space, focusing on fault tolerance and correctness.
+
+- Automated monitoring configurations as code, enabling testing and dashboards which reduced the time to create alerts and monitoring for new systems from one week to hours
+- Led an intern project for scheduled infrastructure deployments accounting for fault tolerance, debugging options, extensibility and open sourcing
+- Designed and wrote command line utilities for multiple Google Cloud Services
+  - Deployment Manager
+  - Type Registry
+  - Service Registry
+- Maintained an early version of the Google Cloud Service Registry
+
+**Languages and frameworks**: Python, Java, Google Cloud
 
 \ornamentbreak
 
 ### Amazon.com, Seattle, WA
 
-Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - January 2016
+Software Development Engineer I and II Warehouse Deals\null\hfill May 2014 - January 2016
 
-- Designed, specified, and built a new AWS based software platform for
-  a billion dollar reverse logistics business
-- Reduced workflow launch time from days to hours by implementing a
-  service for hosting and abstracting Simple Workflow workers
-- Automated manual processes for communicating financial and inventory
-  updates to vendors with asynchronous and event-driven workflows, saving
-  over 200 man hours per week worldwide
-- Integrated inventory tracking tools with a business portal, providing
-  real-time analytics to replace monthly reports
-- Led three engineers in localizing fulfillment center software and
-  building translation management tools, reducing time to live by weeks
-  and error rates by 50%
+Cut my teeth with an incredible engineering team working in a messy and expensive part of
+the logistics chain.
+
+- Reduced workflow launch time from days to hours by implementing a service for hosting and abstracting Simple Workflow workers
+- Automated manual processes for communicating financial and inventory updates to vendors with asynchronous and event-driven workflows, saving over 200 man hours per week worldwide
+- Integrated inventory tracking tools with a business portal, providing real-time analytics to replace monthly reports
+- Led three engineers in localizing fulfillment center software and building translation management tools, reducing time to live by weeks and error rates by 50%
 - Extended tax and accounting software to support international operations
-- Enabled continuous deployment of systems through unit and integration
-  tests with tools like Mockito and JUnit
-- Performed technical talks for teams and developed new solutions to
-  automated UI testing, deployment configuration, and monitoring
+- Enabled continuous deployment of systems through unit and integration tests with tools like Mockito and JUnit
+- Performed technical talks for teams and developed new solutions to automated UI testing, deployment configuration, and monitoring
 - Reviewed code, designs, and roadmaps for projects across multiple teams
+
+**Languages and frameworks**: Java, Spring, AWS, Terraform
 
 \ornamentbreak
 
@@ -85,16 +87,15 @@ Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - Jan
 
 Co-Lead Engineer\null\hfill May 2012 - January 2013
 
-Built Lendingshack.com, a site for peer to peer sharing. Used open-source frameworks and
-tools, like Django and Bootstrap, on Heroku.
+- Built Lendingshack.com, a site for peer to peer sharing
+- Lessons about deployments, merging with others, and running a production service
+
+**Languages and frameworks**: Python, Django, Bootstrap, Heroku
 
 \rule{\textwidth}{0.3pt}
 
-## Education and Skills
+## Education
 
-Bachelor of Science in Computer Science and Mathematics from University of
-Puget Sound, 2013
+Bachelor of Science in Computer Science and Mathematics
 
-**Languages**: Python, PostgreSQL, Ruby, Java, HTML
-
-**Some Software**: Amazon Web Services, Google Cloud Platform, Git, Unix
+University of Puget Sound, 2013
