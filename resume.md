@@ -3,7 +3,19 @@
 <kyle@krwenholz.com>
 (406)546-9210
 
-\rule{\textwidth}{0.3pt}
+\begin{figure}[h!]
+\begin{subfigure}{0.45\textwidth}
+\hrulefill
+\end{subfigure}%
+\begin{subfigure}{0.1\textwidth}
+\begin{center}
+\includegraphics[width=2em]{rocketship.png}
+\end{center}%
+\end{subfigure}%
+\begin{subfigure}{0.45\textwidth}
+\hrulefill
+\end{subfigure}%
+\end{figure}
 
 ## Work Experience
 
