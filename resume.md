@@ -39,19 +39,19 @@ Built a small team of three focused on all things data by focusing myself on
 - Planning work with reports and executing on more than 70% of quarterly objectives
 - Writing software for non-blocking projects:
   - interview engineer onboarding enhancements (3/week to >10)
-  - invoicing
-  - data transformations
+  - invoicing interview engineers quickly and accurately
+  - data transformations coordinated across AWS Lambda and ECS
 - Growing to six direct reports: software engineers ranging from intern to senior, data analysts, and a data scientist
 
 Senior Software Engineer\null\hfill March 2018 - March 2019
 
-Tackled thorny problems with a small team like
+Tackled thorny problems with a small team including
 
 - Design and build a video chat application with Twilio to replace Google Hangouts
 - Organize subteams with another senior engineer, sprint processes with PMs
 - Build best practices through a blameless postmortem culture, design documents, and healthy code reviews
-- Built out preference and notification systems across client and interview engineer user groups
-- Organized and deployed all infrastructure as code with Terraform across a dozen AWS services with another engineer
+- Develop preference and notification systems across client and interview engineer user groups
+- Organize and deploy all infrastructure as code with Terraform across a dozen AWS services with another engineer
 
 **Languages and frameworks**: Python, Ruby, Rails, PostgreSQL, Metabase, AWS, WebRTC, Twilio, Terraform
 
