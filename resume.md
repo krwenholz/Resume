@@ -91,7 +91,7 @@ the logistics chain.
 - Performed technical talks for teams and developed new solutions to automated UI testing, deployment configuration, and monitoring
 - Reviewed code, designs, and roadmaps for projects across multiple teams
 
-**Languages and frameworks**: Java, Spring, AWS, Terraform
+**Languages and frameworks**: Java, Spring, AWS
 
 \ornamentbreak
 
@@ -100,7 +100,7 @@ the logistics chain.
 Co-Lead Engineer\null\hfill May 2012 - January 2013
 
 - Built Lendingshack.com, a site for peer to peer sharing
-- Lessons about deployments, merging with others, and running a production service
+- Learned many lessons about deployments, merging with others, and running a production service
 
 **Languages and frameworks**: Python, Django, Bootstrap, Heroku
 
