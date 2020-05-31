@@ -53,7 +53,7 @@ Tackled thorny problems with a small team including
 - Develop preference and notification systems across client and interview engineer user groups
 - Organize and deploy all infrastructure as code with Terraform across a dozen AWS services with another engineer
 
-**Languages and frameworks**: Python, Ruby, Rails, PostgreSQL, Metabase, AWS, WebRTC, Twilio, Terraform
+**Languages and frameworks**: Python, Ruby, JavaScript, Rails, PostgreSQL, Metabase, AWS, WebRTC, Twilio, Terraform
 
 \ornamentbreak
 
