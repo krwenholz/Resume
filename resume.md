@@ -59,7 +59,7 @@ Tackled thorny problems with a small team including
 
 ### Google, Seattle, WA
 
-Software Engineer III\null\hfill February 2017 - March 2018
+Software Engineer III\null\hfill February 2016 - March 2018
 
 Wrote robust code for a challenging problem space, focusing on fault tolerance and correctness.
 
@@ -77,7 +77,7 @@ Wrote robust code for a challenging problem space, focusing on fault tolerance a
 
 ### Amazon.com, Seattle, WA
 
-Software Development Engineer I and II Warehouse Deals\null\hfill May 2014 - January 2016
+Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - January 2016
 
 Cut my teeth with an incredible engineering team working in a messy and expensive part of
 the logistics chain.
@@ -110,4 +110,4 @@ Co-Lead Engineer\null\hfill May 2012 - January 2013
 
 Bachelor of Science in Computer Science and Mathematics
 
-University of Puget Sound, 2013
+University of Puget Sound, 2014
