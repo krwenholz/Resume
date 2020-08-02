@@ -30,6 +30,7 @@ Coaching, managing, and directing to deliver numbers such as
 - 200 load balanced and performance managed interview engineers across dozens of content formats
 - 10s of thousands of successfully conducted interviews on a suite of modern interviewing tools
 - Eight happy and successful direct reports
+- Dozens of technical reviews and specifications with my own dirty engineering hands
 
 Engineering Manager\null\hfill March 2019 - March 2020
 
