@@ -110,4 +110,4 @@ Co-Lead Engineer\null\hfill May 2012 - January 2013
 
 Bachelor of Science in Computer Science and Mathematics
 
-University of Puget Sound, 2014
+University of Puget Sound, 2013
