@@ -27,32 +27,32 @@ Coaching, managing, and directing to deliver numbers such as
 
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
 - Three hours between candidate scheduling and interviewing with predictable consistency
-- 200 load balanced and performance managed interview engineers across dozens of content formats
-- 10s of thousands of successfully conducted interviews on a suite of modern interviewing tools
+- 200 load balanced and performance managed interviewers across dozens of content formats
+- 10s of thousands of conducted interviews supported by our suite of modern interviewing tools
 - Eight happy and successful direct reports
 - Dozens of technical reviews and specifications with my own dirty engineering hands
 
 Engineering Manager\null\hfill March 2019 - March 2020
 
-Built a small team of three focused on all things data by focusing myself on
+Built a small, mighty team of three with a focus all things data.
 
-- Working with a product manager to target customer's needs in yearly and quarterly OKRs, and projects
-- Planning work with reports and executing on more than 70% of quarterly objectives
-- Writing software for non-blocking projects:
-  - interview engineer onboarding enhancements (3/week to >10)
-  - invoicing interview engineers quickly and accurately
+- Worked with a product manager to target customer's needs in yearly and quarterly OKRs, and projects
+- Planned work with reports and executing on more than 70% of quarterly objectives
+- Wrote software for non-blocking projects:
+  - interviewers onboarding enhancements (3/week to >10)
+  - invoicing interviewers quickly and accurately
   - data transformations coordinated across AWS Lambda and ECS
-- Growing to six direct reports: software engineers ranging from intern to senior, data analysts, and a data scientist
+- Grew to six direct reports: software engineers ranging from intern to senior, data analysts, and a data scientist
 
 Senior Software Engineer\null\hfill March 2018 - March 2019
 
-Tackled thorny problems with a small team including
+Tackled thorny problems with a small team.
 
-- Design and build a video chat application with Twilio to replace Google Hangouts
-- Organize subteams with another senior engineer, sprint processes with PMs
-- Build best practices through a blameless postmortem culture, design documents, and healthy code reviews
-- Develop preference and notification systems across client and interview engineer user groups
-- Organize and deploy all infrastructure as code with Terraform across a dozen AWS services with another engineer
+- Designed and built a video chat application with Twilio to replace Google Hangouts
+- Organized subteams with another senior engineer, sprint processes with PMs
+- Built best practices through a blameless postmortem culture, design documents, and healthy code reviews
+- Developed preference and notification systems across client and interviewers user groups
+- Organized and deployed all infrastructure as code with Terraform across a dozen AWS services with another engineer
 
 **Languages and frameworks**: Python, Ruby, JavaScript, Rails, PostgreSQL, Metabase, AWS, WebRTC, Twilio, Terraform
 
