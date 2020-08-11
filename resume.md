@@ -51,7 +51,7 @@ Tackled thorny problems with a small team.
 - Designed and built a video chat application with Twilio to replace Google Hangouts
 - Organized subteams with another senior engineer, sprint processes with PMs
 - Built best practices through a blameless postmortem culture, design documents, and healthy code reviews
-- Developed preference and notification systems across client and interviewers user groups
+- Developed preference and notification systems across client and interviewer user groups
 - Organized and deployed all infrastructure as code with Terraform across a dozen AWS services with another engineer
 
 **Languages and frameworks**: Python, Ruby, JavaScript, Rails, PostgreSQL, Metabase, AWS, WebRTC, Twilio, Terraform
