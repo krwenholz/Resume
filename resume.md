@@ -26,9 +26,10 @@ Director of Engineering\null\hfill July 2021 - Present
 
 Leading the great folks in Engineering.
 
-- Built the organization from 9 to over 30 engineers
-- Manage 4 managers with 4 product and 1 infrastructure teams
+- Built the Engineering organization from 9 to over 30 engineers
 - Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
+- Manage 4 managers with 4 product teams and 1 infrastructure team
+- Drive alignment on work across the organization with the monthly and quarterly planning process
 - Work with Tech Leads to understand teams' needs and blockers
 - Work with Product to guesstimate effort, prioritize, roadmap, and delight customers
 - Work with the People Team to craft values, review talent, and equitably compensate our great people
@@ -44,12 +45,11 @@ Coached, managed, and grew the Dataplane team. Brought in first versions of a nu
 
 ### Karat Inc, Seattle, WA
 
-Engineering Leader: Delivery\null\hfill March 2020 - Present
+Engineering Leader: Delivery\null\hfill March 2020 - November 2020
 
 Coaching, managing, and directing to deliver numbers such as
 
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
-- Three hours between candidate scheduling and interviewing with predictable consistency
 - 200 load balanced and performance managed interviewers across dozens of content formats
 - 10s of thousands of conducted interviews supported by our suite of modern interviewing tools
 - Eight happy and successful direct reports
@@ -61,10 +61,7 @@ Built a small, mighty team of three with a focus all things data.
 
 - Worked with a product manager to target customer's needs in yearly and quarterly OKRs, and projects
 - Planned work with reports and executing on more than 70% of quarterly objectives
-- Wrote software for non-blocking projects:
-  - interviewers onboarding enhancements (3/week to >10)
-  - invoicing interviewers quickly and accurately
-  - data transformations coordinated across AWS Lambda and ECS
+- Wrote software for non-blocking projects, including interviewer invoicing, interviewer onboarding enhancements, and data transformations across AWS Lambda and ECS
 - Grew to six direct reports: software engineers ranging from intern to senior, data analysts, and a data scientist
 
 Senior Software Engineer\null\hfill March 2018 - March 2019
@@ -90,9 +87,6 @@ Wrote robust code for a challenging problem space, focusing on fault tolerance a
 - Automated monitoring configurations as code, enabling testing and dashboards which reduced the time to create alerts and monitoring for new systems from one week to hours
 - Led an intern project for scheduled infrastructure deployments accounting for fault tolerance, debugging options, extensibility and open sourcing
 - Designed and wrote command line utilities for multiple Google Cloud Services
-  - Deployment Manager
-  - Type Registry
-  - Service Registry
 - Maintained an early version of the Google Cloud Service Registry
 
 **Languages and frameworks**: Python, Java, Google Cloud
@@ -113,7 +107,6 @@ the logistics chain.
 - Extended tax and accounting software to support international operations
 - Enabled continuous deployment of systems through unit and integration tests with tools like Mockito and JUnit
 - Performed technical talks for teams and developed new solutions to automated UI testing, deployment configuration, and monitoring
-- Reviewed code, designs, and roadmaps for projects across multiple teams
 
 **Languages and frameworks**: Java, Spring, AWS
 
