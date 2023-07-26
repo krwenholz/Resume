@@ -2,6 +2,7 @@
 
 <kyle@krwenholz.com>
 (406)546-9210
+[LinkedIn](http://linkedin.com/in/kyle-wenholz/)
 
 \begin{figure}[h!]
 \begin{subfigure}{0.45\textwidth}
@@ -18,6 +19,28 @@
 \end{figure}
 
 ## Work Experience
+
+### ngrok, Inc., Seattle, WA, but mostly Remote
+
+Director of Engineering\null\hfill July 2021 - Present
+
+Leading the great folks in Engineering.
+
+- Built the organization from 9 to over 30 engineers
+- Manage 4 managers with 4 product and 1 infrastructure teams
+- Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
+- Work with Tech Leads to understand teams' needs and blockers
+- Work with Product to guesstimate effort, prioritize, roadmap, and delight customers
+- Work with the People Team to craft values, review talent, and equitably compensate our great people
+- Work with Customer Success on managing high value customer relationships through planning conversations, technical explanations, and RCAs
+
+Engineering Manager: Dataplane\null\hfill November 2020 - June 2021
+
+Coached, managed, and grew the Dataplane team. Brought in first versions of a number of processes to improve communication, delivery, and happiness at ngrok: e.g. sprint planning, performance reviews, and cross-team syncs.
+
+**Languages and frameworks**: Go, AWS, Protobuf, Terraform
+
+\ornamentbreak
 
 ### Karat Inc, Seattle, WA
 
