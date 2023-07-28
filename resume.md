@@ -29,7 +29,7 @@ Leading the great folks in Engineering.
 - Built the Engineering organization from 9 to over 30 engineers
 - Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
 - Manage 4 managers with 4 product teams and 1 infrastructure team
-- Drive alignment on work across the organization with the monthly and quarterly planning process
+- Drive alignment on work across the organization with monthly and quarterly planning processes
 - Work with Tech Leads to understand teams' needs and blockers
 - Work with Product to guesstimate effort, prioritize, roadmap, and delight customers
 - Work with the People Team to craft values, review talent, and equitably compensate our great people
@@ -69,9 +69,7 @@ Senior Software Engineer\null\hfill March 2018 - March 2019
 Tackled thorny problems with a small team.
 
 - Designed and built a video chat application with Twilio to replace Google Hangouts
-- Organized subteams with another senior engineer, sprint processes with PMs
-- Built best practices through a blameless postmortem culture, design documents, and healthy code reviews
-- Developed preference and notification systems across client and interviewer user groups
+- Built best practices through a blameless postmortem culture, design documents, sprints, and healthy code reviews
 - Organized and deployed all infrastructure as code with Terraform across a dozen AWS services with another engineer
 
 **Languages and frameworks**: Python, Ruby, JavaScript, Rails, PostgreSQL, Metabase, AWS, WebRTC, Twilio, Terraform
@@ -101,7 +99,7 @@ Cut my teeth with an incredible engineering team working in a messy and expensiv
 the logistics chain.
 
 - Reduced workflow launch time from days to hours by implementing a service for hosting and abstracting Simple Workflow workers
-- Automated manual processes for communicating financial and inventory updates to vendors with asynchronous and event-driven workflows, saving over 200 man hours per week worldwide
+- Automated manual processes for communicating financial and inventory updates to vendors with asynchronous and event-driven workflows, saving over 200 man-hours per week worldwide
 - Integrated inventory tracking tools with a business portal, providing real-time analytics to replace monthly reports
 - Led three engineers in localizing fulfillment center software and building translation management tools, reducing time to live by weeks and error rates by 50%
 - Extended tax and accounting software to support international operations
@@ -116,8 +114,7 @@ the logistics chain.
 
 Co-Lead Engineer\null\hfill May 2012 - January 2013
 
-- Built Lendingshack.com, a site for peer to peer sharing
-- Learned many lessons about deployments, merging with others, and running a production service
+Built Lendingshack.com, a site for peer to peer sharing
 
 **Languages and frameworks**: Python, Django, Bootstrap, Heroku
 
