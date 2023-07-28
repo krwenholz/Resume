@@ -81,11 +81,8 @@ Tackled thorny problems with a small team.
 Software Engineer III\null\hfill February 2016 - March 2018
 
 Wrote robust code for a challenging problem space, focusing on fault tolerance and correctness.
-
-- Automated monitoring configurations as code, enabling testing and dashboards which reduced the time to create alerts and monitoring for new systems from one week to hours
-- Led an intern project for scheduled infrastructure deployments accounting for fault tolerance, debugging options, extensibility and open sourcing
-- Designed and wrote command line utilities for multiple Google Cloud Services
-- Maintained an early version of the Google Cloud Service Registry
+I led intern projects, designed and built CLI utilities for Google Cloud Services, and improved
+testing and observability of the Deployment Manager service.
 
 **Languages and frameworks**: Python, Java, Google Cloud
 
@@ -96,15 +93,9 @@ Wrote robust code for a challenging problem space, focusing on fault tolerance a
 Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - January 2016
 
 Cut my teeth with an incredible engineering team working in a messy and expensive part of
-the logistics chain.
-
-- Reduced workflow launch time from days to hours by implementing a service for hosting and abstracting Simple Workflow workers
-- Automated manual processes for communicating financial and inventory updates to vendors with asynchronous and event-driven workflows, saving over 200 man-hours per week worldwide
-- Integrated inventory tracking tools with a business portal, providing real-time analytics to replace monthly reports
-- Led three engineers in localizing fulfillment center software and building translation management tools, reducing time to live by weeks and error rates by 50%
-- Extended tax and accounting software to support international operations
-- Enabled continuous deployment of systems through unit and integration tests with tools like Mockito and JUnit
-- Performed technical talks for teams and developed new solutions to automated UI testing, deployment configuration, and monitoring
+the logistics chain: automating manual workflows, improving inventory tracking, reducing
+translation errors with tooling, automating software deployments, and teaching and learning
+through talks and writing.
 
 **Languages and frameworks**: Java, Spring, AWS
 
