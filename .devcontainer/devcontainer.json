@@ -1,0 +1,8 @@
+{
+  "image": "ghcr.io/zombiezen/codespaces-nix:0.2.1",
+  "hostRequirements": {
+   "cpus": 2,
+   "memory": "4gb",
+   "storage": "32gb"
+  }
+}
