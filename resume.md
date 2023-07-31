@@ -2,7 +2,7 @@
 
 <kyle@krwenholz.com>
 (406)546-9210
-[LinkedIn](http://linkedin.com/in/kyle-wenholz/)
+http://linkedin.com/in/kyle-wenholz/
 
 \begin{figure}[h!]
 \begin{subfigure}{0.45\textwidth}
@@ -26,18 +26,18 @@ Director of Engineering\null\hfill July 2021 - Present
 
 Leading the great folks in Engineering.
 
-- Built the Engineering organization from 9 to over 30 engineers
-- Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
+- Successfully expanded the Engineering team from nine to over thirty skilled engineers
 - Manage 4 managers with 4 product teams and 1 infrastructure team
+- Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
 - Drive alignment on work across the organization with monthly and quarterly planning processes
 - Work with Tech Leads to understand teams' needs and blockers
 - Work with Product to guesstimate effort, prioritize, roadmap, and delight customers
 - Work with the People Team to craft values, review talent, and equitably compensate our great people
-- Work with Customer Success on managing high value customer relationships through planning conversations, technical explanations, and RCAs
+- Work with Customer Success on managing high-value customer relationships through planning conversations, technical explanations, and RCAs
 
 Engineering Manager: Dataplane\null\hfill November 2020 - June 2021
 
-Coached, managed, and grew the Dataplane team. Brought in first versions of a number of processes to improve communication, delivery, and happiness at ngrok: e.g. sprint planning, performance reviews, and cross-team syncs.
+Coached, managed, and grew the Dataplane team. Brought in the first versions of multiple processes to improve communication, delivery, and happiness at ngrok: e.g. sprint planning, performance reviews, and cross-team syncs.
 
 **Languages and frameworks**: Go, AWS, Protobuf, Terraform
 
