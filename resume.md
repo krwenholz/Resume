@@ -24,16 +24,17 @@ http://linkedin.com/in/kyle-wenholz/
 
 Director of Engineering\null\hfill July 2021 - Present
 
-Leading the great folks in Engineering.
+I lead the great folks in Engineering.
 
 - Successfully expanded the Engineering team from nine to over thirty skilled engineers
 - Manage 4 managers with 4 product teams and 1 infrastructure team
-- Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
 - Drive alignment on work across the organization with monthly and quarterly planning processes
-- Work with Tech Leads to understand teams' needs and blockers
+- Work with Managers Tech Leads to understand teams' needs and blockers
 - Work with Product to guesstimate effort, prioritize, roadmap, and delight customers
 - Work with the People Team to craft values, review talent, and equitably compensate our great people
-- Work with Customer Success on managing high-value customer relationships through planning conversations, technical explanations, and RCAs
+- Built out the first version of our compliance program and then worked with new leaders to expand and maintain that program
+- Manage high-value customer relationships with Customer Success through planning conversations, technical explanations, and RCAs
+- Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
 
 Engineering Manager: Dataplane\null\hfill November 2020 - June 2021
 
