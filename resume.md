@@ -22,7 +22,7 @@ http://linkedin.com/in/kyle-wenholz/
 
 ### ngrok, Inc., Seattle, WA, but mostly Remote
 
-Director of Engineering\null\hfill July 2021 - Present
+Director of Engineering\null\hfill July 2021 - May 2024
 
 I lead the great folks in Engineering.
 
