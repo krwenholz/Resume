@@ -24,16 +24,17 @@ http://linkedin.com/in/kyle-wenholz/
 
 Director of Engineering\null\hfill July 2021 - May 2024
 
-I lead the great folks in Engineering.
+I led the great folks in Engineering.
 
+- Managed the technical relationship with ngrok's largest customer, Databricks: gathering requirements to their multi-cloud deployment of ngrok and coordinating new features
+- Worked with Sales on a 1.5x increase in contract value for Databricks, citing improved value and usage of ngrok
+- Owned the technical relationship with ngrok's second largest customer, Dunkin' Donuts, on uptime, incident management, and capacity planning
+- Retained Dunkin' as a valued customer with over 1.5x increase in contract value despite incidents in the previous years
+- Built out the first version of ngrok's SOC2 compliance program and vendor-conducted penetration test for three successful audits
+- Reduced AWS spend from over $220,000/month (and trending upward) to $190,000 on AWS by analyzing network usage, instance types, reserved capacity, and service topology
+- Built out on-call operations and external communications for incidents, driving mean time to resolution from three hours to 10 minutes
 - Successfully expanded the Engineering team from nine to over thirty skilled engineers
-- Manage 4 managers with 4 product teams and 1 infrastructure team
-- Drive alignment on work across the organization with monthly and quarterly planning processes
-- Work with Managers Tech Leads to understand teams' needs and blockers
-- Work with Product to guesstimate effort, prioritize, roadmap, and delight customers
-- Work with the People Team to craft values, review talent, and equitably compensate our great people
-- Built out the first version of our compliance program and then worked with new leaders to expand and maintain that program
-- Manage high-value customer relationships with Customer Success through planning conversations, technical explanations, and RCAs
+- Managed 4 managers with 4 product teams and 1 infrastructure team
 - Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
 
 Engineering Manager: Dataplane\null\hfill November 2020 - June 2021
@@ -50,11 +51,11 @@ Engineering Leader: Delivery\null\hfill March 2020 - November 2020
 
 Coaching, managing, and directing to deliver numbers such as
 
+- Managed data analysts and scientists to create a suite of resources for sales engineers and customer success, driving customer retention and contract expansion with analytics and insights
+- Managed Karat's SOC2 commitments and compliance program for Engineering, resulting in a successful audit
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
 - 200 load balanced and performance managed interviewers across dozens of content formats
 - 10s of thousands of conducted interviews supported by our suite of modern interviewing tools
-- Eight happy and successful direct reports
-- Dozens of technical reviews and specifications with my own dirty engineering hands
 
 Engineering Manager\null\hfill March 2019 - March 2020
 
