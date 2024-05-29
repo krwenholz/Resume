@@ -26,7 +26,7 @@ Director of Engineering\null\hfill July 2021 - May 2024
 
 I led the great folks in Engineering.
 
-- Managed the technical relationship with ngrok's largest customer, Databricks: gathering requirements to their multi-cloud deployment of ngrok and coordinating new features
+- Managed the technical relationship with ngrok's largest customer, Databricks, gathering requirements for their multi-cloud deployment of ngrok and coordinating new features
 - Worked with Sales on a 1.5x increase in contract value for Databricks, citing improved value and usage of ngrok
 - Owned the technical relationship with ngrok's second largest customer, Dunkin' Donuts, on uptime, incident management, and capacity planning
 - Retained Dunkin' as a valued customer with over 1.5x increase in contract value despite incidents in the previous years
@@ -49,10 +49,10 @@ Coached, managed, and grew the Dataplane team. Brought in the first versions of 
 
 Engineering Leader: Delivery\null\hfill March 2020 - November 2020
 
-Coaching, managing, and directing to deliver numbers such as
+Coached, managed, and directed
 
 - Managed data analysts and scientists to create a suite of resources for sales engineers and customer success, driving customer retention and contract expansion with analytics and insights
-- Managed Karat's SOC2 commitments and compliance program for Engineering, resulting in a successful audit
+- Managed Karat's SOC2 commitments and compliance program for Engineering, resulting in multiple successful audits
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
 - 200 load balanced and performance managed interviewers across dozens of content formats
 - 10s of thousands of conducted interviews supported by our suite of modern interviewing tools
