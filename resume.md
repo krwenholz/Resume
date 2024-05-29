@@ -26,13 +26,13 @@ Director of Engineering\null\hfill July 2021 - May 2024
 
 I led the great folks in Engineering.
 
-- Managed the technical relationship with ngrok's largest customer, Databricks, gathering requirements for their multi-cloud deployment of ngrok and coordinating new features
-- Worked with Sales on a 1.5x increase in contract value for Databricks, citing improved value and usage of ngrok
-- Owned the technical relationship with ngrok's second largest customer, Dunkin' Donuts, on uptime, incident management, and capacity planning
-- Retained Dunkin' as a valued customer with over 1.5x increase in contract value despite incidents in the previous years
-- Built out the first version of ngrok's SOC2 compliance program and vendor-conducted penetration test for three successful audits
+- Managed the technical relationship with Databricks, gathering requirements for their multi-cloud deployment of ngrok and coordinating new features
+- Worked with Sales to increase Databricks' contract value by 1.5x through improved value and usage of ngrok
+- Oversaw the technical relationship with Dunkin' Donuts, focusing on uptime, incident management, and capacity planning
+- Retained Dunkin' as a customer, increasing their contract value by 1.5x despite previous incidents
+- Developed ngrok's SOC2 compliance program and vendor-conducted penetration test for three successful audits
 - Reduced AWS spend from over $220,000/month (and trending upward) to $190,000 on AWS by analyzing network usage, instance types, reserved capacity, and service topology
-- Built out on-call operations and external communications for incidents, driving mean time to resolution from three hours to 10 minutes
+- Established on-call operations and external communications for incidents, reducing mean time to resolution from three hours to 10 minutes
 - Successfully expanded the Engineering team from nine to over thirty skilled engineers
 - Managed 4 managers with 4 product teams and 1 infrastructure team
 - Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
@@ -51,8 +51,8 @@ Engineering Leader: Delivery\null\hfill March 2020 - November 2020
 
 Coached, managed, and directed
 
-- Managed data analysts and scientists to create a suite of resources for sales engineers and customer success, driving customer retention and contract expansion with analytics and insights
-- Managed Karat's SOC2 commitments and compliance program for Engineering, resulting in multiple successful audits
+- Managed data analysts and scientists to develop resources for sales engineers and customer success, enhancing customer retention and expanding contracts through analytics and insights
+- Managed Karat's SOC2 compliance program for Engineering, acheiving multiple successful audits
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
 - 200 load balanced and performance managed interviewers across dozens of content formats
 - 10s of thousands of conducted interviews supported by our suite of modern interviewing tools
