@@ -53,6 +53,7 @@ Coached, managed, and directed
 
 - Managed data analysts and scientists to develop resources for sales engineers and customer success, enhancing customer retention and expanding contracts through analytics and insights
 - Managed Karat's SOC2 compliance program for Engineering, acheiving multiple successful audits
+- Owned savings plan and negotiations for large software contracts: AWS and Twilio
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
 - 200 load balanced and performance managed interviewers across dozens of content formats
 - 10s of thousands of conducted interviews supported by our suite of modern interviewing tools
