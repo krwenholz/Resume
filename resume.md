@@ -26,16 +26,15 @@ Director of Engineering\null\hfill July 2021 - May 2024
 
 I led the great folks in Engineering.
 
-- Managed the technical relationship with Databricks, gathering requirements for their multi-cloud deployment of ngrok and coordinating new features
-- Worked with Sales to increase Databricks' contract value by 1.5x through improved value and usage of ngrok
-- Oversaw the technical relationship with Dunkin' Donuts, focusing on uptime, incident management, and capacity planning
-- Retained Dunkin' as a customer, increasing their contract value by 1.5x despite previous incidents
-- Developed ngrok's SOC2 compliance program and vendor-conducted penetration test for three successful audits
-- Reduced AWS spend from over $220,000/month (and trending upward) to $190,000 on AWS by analyzing network usage, instance types, reserved capacity, and service topology
-- Established on-call operations and external communications for incidents, reducing mean time to resolution from three hours to 10 minutes
 - Successfully expanded the Engineering team from nine to over thirty skilled engineers
 - Managed 4 managers with 4 product teams and 1 infrastructure team
+- Drove monthly and quarterly planning processes across Product, Design, and Engineering
+- Owned and analyzed engineering spend of over $300,000/month across multiple vendors, coordinating engineering to control costs through network analysis, capacity reservations, and contract negotiations
+- Developed ngrok's SOC2 compliance program and vendor-conducted penetration test for three successful audits
+- Managed technical relationships with Databricks, Dunkin', and other customers, gathering requirements for multi-cloud deployments of ngrok, coordinating new features, incident management, and capacity planning
+- Worked with Sales to increase Databricks' and Dunkin's contract values by 1.5x through improved value and usage of ngrok
 - Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
+- Established on-call operations and external communications for incidents, reducing mean time to resolution from three hours to 10 minutes
 
 Engineering Manager: Dataplane\null\hfill November 2020 - June 2021
 
@@ -49,14 +48,14 @@ Coached, managed, and grew the Dataplane team. Brought in the first versions of 
 
 Engineering Leader: Delivery\null\hfill March 2020 - November 2020
 
-Coached, managed, and directed
+Coached, managed, and directed.
 
-- Managed data analysts and scientists to develop resources for sales engineers and customer success, enhancing customer retention and expanding contracts through analytics and insights
-- Managed Karat's SOC2 compliance program for Engineering, acheiving multiple successful audits
-- Owned savings plan and negotiations for large software contracts: AWS and Twilio
+- Eight happy and successful direct reports
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
 - 200 load balanced and performance managed interviewers across dozens of content formats
 - 10s of thousands of conducted interviews supported by our suite of modern interviewing tools
+- Managed Karat's SOC2 compliance program for Engineering, acheiving multiple successful audits
+- Owned savings plan and negotiations for large software contracts: AWS and Twilio
 
 Engineering Manager\null\hfill March 2019 - March 2020
 
