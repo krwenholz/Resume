@@ -30,9 +30,9 @@ I led the great folks in Engineering.
 - Managed 4 managers with 4 product teams and 1 infrastructure team
 - Drove monthly and quarterly planning processes across Product, Design, and Engineering
 - Owned and analyzed engineering spend of over $300,000/month across multiple vendors, coordinating engineering to control costs through network analysis, capacity reservations, and contract negotiations
-- Developed ngrok's SOC2 compliance program and vendor-conducted penetration test for three successful audits
-- Managed technical relationships with Databricks, Dunkin', and other customers, gathering requirements for multi-cloud deployments of ngrok, coordinating new features, incident management, and capacity planning
-- Worked with Sales to increase Databricks' and Dunkin's contract values by 1.5x through improved value and usage of ngrok
+- Developed ngrok's SOC2 compliance program and penetration test for three successful audits
+- Managed technical relationships with Databricks, Dunkin', and other customers, working with them on multi-cloud deployments of ngrok, new features, incident management, and capacity planning
+- Partnered with Sales to increase Databricks' and Dunkin's contract values by 1.5x through improved value and usage of ngrok
 - Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
 - Established on-call operations and external communications for incidents, reducing mean time to resolution from three hours to 10 minutes
 
