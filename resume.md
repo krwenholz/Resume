@@ -40,7 +40,7 @@ Engineering Manager: Dataplane\null\hfill November 2020 - June 2021
 
 Coached, managed, and grew the Dataplane team. Brought in the first versions of multiple processes to improve communication, delivery, and happiness at ngrok: e.g. sprint planning, performance reviews, and cross-team syncs.
 
-**Languages and frameworks**: Go, AWS, Protobuf, Terraform
+**Languages and frameworks**: Go, AWS, Protobuf, Datadog, Terraform, Kubernetes
 
 \ornamentbreak
 
