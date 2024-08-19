@@ -26,7 +26,7 @@ Director of Engineering\null\hfill July 2021 - May 2024
 
 I led the great folks in Engineering.
 
-- Successfully expanded the Engineering team from nine to over thirty skilled engineers
+- Successfully expanded the Engineering team from nine to over thirty skilled engineers (owning all recruiting functions for 15 of those hires)
 - Managed 4 managers with 4 product teams and 1 infrastructure team
 - Drove monthly and quarterly planning processes across Product, Design, and Engineering
 - Owned and analyzed engineering spend of over $300,000/month across multiple vendors, coordinating engineering to control costs through network analysis, capacity reservations, and contract negotiations
