@@ -26,7 +26,6 @@ Director of Engineering\null\hfill July 2021 - May 2024
 
 I led the great folks in Engineering.
 
-- Successfully expanded the Engineering team from nine to over thirty skilled engineers (owning all recruiting functions for 15 of those hires)
 - Managed 4 managers with 4 product teams and 1 infrastructure team
 - Drove monthly and quarterly planning processes across Product, Design, and Engineering
 - Owned and analyzed engineering spend of over $300,000/month across multiple vendors, coordinating engineering to control costs through network analysis, capacity reservations, and contract negotiations
@@ -35,6 +34,7 @@ I led the great folks in Engineering.
 - Partnered with Sales to increase Databricks' and Dunkin's contract values by 1.5x through improved value and usage of ngrok
 - Interviewed hundreds of candidates for roles ranging from ICs to VPs across Engineering, Product, Marketing, and People
 - Established on-call operations and external communications for incidents, reducing mean time to resolution from three hours to 10 minutes
+- Successfully expanded the Engineering team from nine to over thirty skilled engineers (owning all recruiting functions for 15 of those hires)
 
 Engineering Manager: Dataplane\null\hfill November 2020 - June 2021
 
