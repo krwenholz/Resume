@@ -1,37 +1,18 @@
 {
-  // NOTE: it's all based on https://github.com/xtruder/nix-devcontainer
   "name": "krwenholz/resume",
-  "dockerFile": "Dockerfile",
-  "context": "${localWorkspaceFolder}",
-  "build": {
-    "args": {
-      "USER_UID": "${localEnv:USER_UID}",
-      "USER_GID": "${localEnv:USER_GID}"
-    }
-  },
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
 
   "mounts": [
-    "source=krwenholz-resume_nix,target=/nix,type=volume"
+    "source=${localEnv:HOME}/.aws,target=/home/vscode/.aws,type=bind,consistency=cached",
+    "source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached",
+    // And let's nicely persist our zsh history!
+    "source=${localEnv:HOME}/.devcontainer.zsh_history,target=/home/vscode/.zsh_history,type=bind"
   ],
-
-  // run arguments passed to docker
-  "runArgs": ["--security-opt", "label=disable"],
 
   "containerEnv": {
     // extensions to preload before other extensions
     //"PRELOAD_EXTENSIONS": "arrterian.nix-env-selector"
   },
-
-  // disable command overriding and updating remote user ID
-  "overrideCommand": false,
-  "userEnvProbe": "loginShell",
-  "updateRemoteUserUID": false,
-
-  // build development environment on creation, make sure you already have shell.nix
-  //"onCreateCommand": "echo hi",
-
-  
-  "features": {},
 
   // Add the IDs of extensions you want installed when the container is created.
   "customizations": {
@@ -40,8 +21,7 @@
         "GitHub.copilot",
         "GitHub.copilot-chat",
         "vscodevim.vim",
-        "esbenp.prettier-vscode",
-          
+        "esbenp.prettier-vscode"
       ]
     }
   },
