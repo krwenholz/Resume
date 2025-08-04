@@ -24,7 +24,7 @@ http://linkedin.com/in/kyle-wenholz/
 
 Engineering\null\hfill January 2025 - Present
 
-- Designed and drove the backend migration of Fay's chat API off AWS's anemic Chime: supporting thousands of daily dietitian conversations without anyone noticing, supporting over ten thousand QPS to the new endpoint without scaling up infrastructure, and maintaining full backwards compatilibity for mobile clients unable to migrate immediately.
+- Designed and drove the backend migration of Fay's chat API off AWS's anemic Chime: supported thousands of new QPS to the endpoint without scaling up infrastructure, thousands of daily dietitian conversations never noticed, and maintaining full backwards compatilibity for mobile clients unable to migrate immediately.
 - Took Fay's first SOC2 audit from initial conversation to a clean Type 1 report in 60 days: owning and managing auditor selection and engagement, timelines, and risk assessment while handling all process and program creation for the entire company, not just engineering.
 
 **Languages and frameworks**: Python, TypeScript, Postgres, React
