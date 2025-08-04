@@ -1,8 +1,18 @@
 <div id='container'>
 <div id="contact">
 <p>
+create professional-looking PDF and HTML output.
 </p>
 </div>
 <div>
-
+<p>This is a simple Markdown resumé template, LaTeX header, and pre-processing script that can be used with <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> to ## Dependencies</p>
+<ul>
+<li>Pandoc &gt;= 1.9 (you can adjust the Makefile to use an earlier version – the arguments format changed)</li>
+<li>Python &gt;= 2.7</li>
+<li>A Tex installation with pdflatex and the Tex Gyre Pagella font, and some packages needed by pandoc. On Ubuntu you can get this by installing <code>texlive</code>, <code>texlive-latex-extra</code>, and <code>tex-gyre</code>.</li>
+</ul>
+<h2 id="usage">Usage</h2>
+<p>Simply run <code>make</code> to generate PDF and HTML versions of each .md file in the directory.</p>
+<p>In order to enable visually appealing display of contact information, the Markdown is passed through a Python script that looks for contact details beginning on the fourth line and moves them into a right-aligned, zero-height box at the top of the document. Lines with bullets (•) will be treated as separate contact lines in the output.</p>
+<p>By default, an image of your <a href="http://www.gravatar.com">Gravatar</a> will be added to the HTML resumé. This feature can be disabled by setting the environment variable <code>GRAVATAR_OPTION=--no-gravatar</code>.</p>
 </div>
