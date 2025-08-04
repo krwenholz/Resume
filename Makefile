@@ -14,11 +14,11 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	python resume.py html $(GRAVATAR_OPTION) < $< > .tmp/resume.html.md
+	docker run --rm --name resume -v ${PWD}:/usr/src/myapp -w /usr/src/myapp python:3.7-alpine python resume.py html $(GRAVATAR_OPTION) < $< > .tmp/resume.html.md
 	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` pandoc/latex-resume:1.0  .tmp/resume.html.md -t html -c resume.css -o $@
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
-	python resume.py tex < $< > .tmp/resume.tex.md
+	docker run --rm --name resume -v ${PWD}:/usr/src/myapp -w /usr/src/myapp python:3.7-alpine python resume.py tex < $< > .tmp/resume.tex.md
 	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` pandoc/latex-resume:1.0 .tmp/resume.tex.md $(PANDOCARGS) --variable subparagraph --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
 ifeq ($(OS),Windows_NT)
