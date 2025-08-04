@@ -9,6 +9,11 @@
     "source=${localEnv:HOME}/.devcontainer.zsh_history,target=/home/vscode/.zsh_history,type=bind"
   ],
 
+  "features": {
+    // Includes docker-in-docker
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+
   "containerEnv": {
     // extensions to preload before other extensions
     //"PRELOAD_EXTENSIONS": "arrterian.nix-env-selector"
