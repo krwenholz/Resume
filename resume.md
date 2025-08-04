@@ -20,6 +20,21 @@ http://linkedin.com/in/kyle-wenholz/
 
 ## Work Experience
 
+### Fay Nutrition Inc., Remote
+
+Engineering\null\hfill January 2025 - Present
+
+- Designed and drove the backend migration of Fay's chat API: supporting thousands of daily dietitian conversations without anyone noticing, supporting over ten thousand QPS to the new endpoint without scaling up infrastructure, and maintaining full backwards compatilibity for mobile clients unable to migrate immediately.
+- Took Fay's first SOC2 audit from initial conversation to a clean Type 1 report in 60 days: owning and managing auditor selection and engagement, timelines, and risk assessment while handling all process and program creation for the entire company, not just engineering.
+
+### Founder: Engineering, Product, and Sometimes Marketing Strategist
+
+July 2024 - January 2025
+
+Starting with Sport Sage (https://mysportsage.com), I tested startup ideas and learned about the running of a proper business. This included testing the latest in LLM and web technologies, soliciting user feedback, marketing, business operations, and, most importantly, delivering stellar user experiences.
+
+Technologies: Gemini API, LLMs, Elixir, Phoenix, Fly.io, Grafana
+
 ### ngrok, Inc., Seattle, WA, but mostly Remote
 
 Director of Engineering\null\hfill July 2021 - May 2024
