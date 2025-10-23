@@ -79,11 +79,9 @@ Engineering Leader: Delivery\null\hfill March 2020 - November 2020
 - 200 load balanced and performance managed interviewers across dozens of content formats
 - 10s of thousands of conducted interviews supported by our suite of modern interviewing tools
 - Managed Karat's SOC2 compliance program for Engineering, acheiving multiple successful audits
-- Owned savings plan and negotiations for large software contracts: AWS and Twilio
 
 Engineering Manager\null\hfill March 2019 - March 2020
 
-- Worked with a product manager to target customer's needs in yearly and quarterly OKRs, and projects
 - Planned work with reports and executing on more than 70% of quarterly objectives
 - Wrote software for non-blocking projects, including interviewer invoicing, interviewer onboarding enhancements, and data transformations across AWS Lambda and ECS
 - Grew the team to six direct reports: software engineers ranging from intern to senior, data analysts, and a data scientist
@@ -111,8 +109,6 @@ Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - Jan
 ### CentsLess LLC, Tacoma, WA
 
 Co-Lead Engineer\null\hfill May 2012 - January 2013
-
-**Languages and frameworks**: Python, Django, Bootstrap, Heroku
 
 \rule{\textwidth}{0.3pt}
 
