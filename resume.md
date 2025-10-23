@@ -18,6 +18,8 @@ http://linkedin.com/in/kyle-wenholz/
 \end{subfigure}%
 \end{figure}
 
+12+ years building scalable systems and leading teams, specializing in DevOps, security and compliance, and talent development. Drove SOC2 programs from kickoff to clean audits in 60 days, scaled engineering organizations 3x, and managed $300k/month cloud spend. Built continuous deployment pipelines tripling developer velocity and led zero-downtime migrations handling thousands of QPS across AWS, PostgreSQL, and modern Python/Go stacks.
+
 ## Work Experience
 
 ### Fay Nutrition Inc., Remote
