@@ -22,11 +22,9 @@ http://linkedin.com/in/kyle-wenholz/
 
 ## Technical Skills
 
-Languages & Frameworks: Python, Go, TypeScript, React, Phoenix
-
-Cloud & Infrastructure: AWS (Fargate, Lambda, RDS, CloudFront), Terraform, Kubernetes, GitHub Actions
-
-Databases & Observability: PostgreSQL, Snowflake, Datadog, Grafana, Metabase
+- Languages & Frameworks: Python, Go, TypeScript, React, Phoenix
+- Cloud & Infrastructure: AWS (Fargate, Lambda, RDS, CloudFront), Terraform, Kubernetes, GitHub Actions
+- Databases & Observability: PostgreSQL, Snowflake, Datadog, Grafana, Metabase
 
 ## Work Experience
 
@@ -35,10 +33,10 @@ Databases & Observability: PostgreSQL, Snowflake, Datadog, Grafana, Metabase
 Engineering\null\hfill January 2025 - Present
 
 - Led Fay's first SOC2 audit from initial conversation to a clean Type 1 report in 60 days and a clean Type 2 in 120 days
-- Implemented Fay's first full continuous service deployment pipeline in GitHub Actions: tripled daily deploys per developer, saved developers an average of an thirty minutes per day, and reduced mean time to change by half an hour
-- Designed and drove the backend migration of Fay's chat API off AWS's anemic Chime: supported thousands of new QPS to the endpoint without scaling up infrastructure, downtime, or force-migrating lagging mobile platforms
-- Rolled out AI tooling with Claude Code in GitHub Actions and local for PR reviews, code authoring, and search 
-- Led the backend implementation of in-app referrals: building for iOS and Android partners and launching to quick adoption by users
+- Implemented Fay's first full continuous service deployment pipeline in GitHub Actions: tripled daily deploys per developer, saved developers an average of thirty minutes per day, and reduced mean time to change by half an hour
+- Designed and drove the backend migration of Fay's chat API off AWS's anemic Chime: supported thousands of new QPS to the endpoint without scaling up infrastructure, without downtime, and without force-migrating lagging mobile platforms
+- Rolled out AI tooling with Claude Code in GitHub Actions and locally for PR reviews, code authoring, and search 
+- Led the backend implementation of in-app referrals: built for iOS and Android partners and launched to quick user adoption
 
 \ornamentbreak
 
@@ -46,7 +44,7 @@ Engineering\null\hfill January 2025 - Present
 
 July 2024 - January 2025
 
-Starting with Sport Sage, I tested several startup ideas. This included using the latest in LLM and web technologies, soliciting user feedback, marketing, and business operations.
+Starting with Sport Sage, I tested several startup ideas. This included testing the latest LLM and web technologies, soliciting user feedback, executing marketing strategies, and managing business operations.
 
 \ornamentbreak
 
@@ -77,7 +75,7 @@ Engineering Leader: Delivery\null\hfill March 2020 - November 2020
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
 - 200 load balanced and performance managed interviewers across dozens of content formats
 - 10s of thousands of conducted interviews supported by our suite of modern interviewing tools
-- Managed Karat's SOC2 compliance program for Engineering, acheiving multiple successful audits
+- Managed Karat's SOC2 compliance program for Engineering, achieving multiple successful audits
 
 Engineering Manager\null\hfill March 2019 - March 2020
 
