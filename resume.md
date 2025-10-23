@@ -46,7 +46,7 @@ Engineering\null\hfill January 2025 - Present
 
 July 2024 - January 2025
 
-Starting with Sport Sage (https://mysportsage.com), I tested startup ideas and learned about the running of a proper business. This included testing the latest in LLM and web technologies, soliciting user feedback, marketing, business operations, and delivering magical user experiences.
+Starting with Sport Sage, I tested several startup ideas. This included using the latest in LLM and web technologies, soliciting user feedback, marketing, and business operations.
 
 \ornamentbreak
 
@@ -104,8 +104,6 @@ Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - Jan
 ### CentsLess LLC, Tacoma, WA
 
 Co-Lead Engineer\null\hfill May 2012 - January 2013
-
-\rule{\textwidth}{0.3pt}
 
 ## Education
 
