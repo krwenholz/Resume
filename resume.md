@@ -24,11 +24,11 @@ http://linkedin.com/in/kyle-wenholz/
 
 Engineering\null\hfill January 2025 - Present
 
-- Took Fay's first SOC2 audit from initial conversation to a clean Type 1 report in 60 days and a clean Type 2 in 120 days: owning and managing auditor selection and engagement, timelines, risk assessment, and a first penetration test (with key remediations) while handling all process and program creation for the entire company, not just engineering.
-- Implemented Fay's first full continuous service deployment pipeline in GitHub Actions: tripled daily deploys per developer, saved developers an average of an thirty minutes per day, and reduced mean time to change by half an hour.
-- Designed and drove the backend migration of Fay's chat API off AWS's anemic Chime: supported thousands of new QPS to the endpoint without scaling up infrastructure. Thousands of daily dietitian conversations never noticed, and we maintained full backwards compatilibity for mobile clients unable to migrate immediately.
+- Led Fay's first SOC2 audit from initial conversation to a clean Type 1 report in 60 days and a clean Type 2 in 120 days
+- Implemented Fay's first full continuous service deployment pipeline in GitHub Actions: tripled daily deploys per developer, saved developers an average of an thirty minutes per day, and reduced mean time to change by half an hour
+- Designed and drove the backend migration of Fay's chat API off AWS's anemic Chime: supported thousands of new QPS to the endpoint without scaling up infrastructure, downtime, or force-migrating lagging mobile platforms
 - Rolled out AI tooling with Claude Code in GitHub Actions and local for PR reviews, code authoring, and search 
-- Led the backend implementation of in-app referrals: building for iOS and Android partners and launching to quick adoption by users.
+- Led the backend implementation of in-app referrals: building for iOS and Android partners and launching to quick adoption by users
 
 **Languages and frameworks**: Python, TypeScript, Postgres, React, AWS Fargate
 
@@ -38,7 +38,7 @@ Engineering\null\hfill January 2025 - Present
 
 July 2024 - January 2025
 
-Starting with Sport Sage (https://mysportsage.com), I tested startup ideas and learned about the running of a proper business. This included testing the latest in LLM and web technologies, soliciting user feedback, marketing, business operations, and, most importantly, delivering stellar user experiences.
+Starting with Sport Sage (https://mysportsage.com), I tested startup ideas and learned about the running of a proper business. This included testing the latest in LLM and web technologies, soliciting user feedback, marketing, business operations, and delivering magical user experiences.
 
 **Languages and frameworks**: Gemini API, LLMs, Elixir, Phoenix, Fly.io, Grafana
 
@@ -47,8 +47,6 @@ Starting with Sport Sage (https://mysportsage.com), I tested startup ideas and l
 ### ngrok, Inc., Seattle, WA, but mostly Remote
 
 Director of Engineering\null\hfill July 2021 - May 2024
-
-I led the great folks in Engineering.
 
 - Managed 4 managers with 4 product teams and 1 infrastructure team
 - Drove monthly and quarterly planning processes across Product, Design, and Engineering
@@ -72,8 +70,6 @@ Coached, managed, and grew the Dataplane team. Brought in the first versions of 
 
 Engineering Leader: Delivery\null\hfill March 2020 - November 2020
 
-Coached, managed, and directed.
-
 - Eight happy and successful direct reports
 - 20% COGS reduction by finding process bottlenecks and value boosting opportunities
 - 200 load balanced and performance managed interviewers across dozens of content formats
@@ -83,16 +79,12 @@ Coached, managed, and directed.
 
 Engineering Manager\null\hfill March 2019 - March 2020
 
-Built a small, mighty team of three with a focus all things data.
-
 - Worked with a product manager to target customer's needs in yearly and quarterly OKRs, and projects
 - Planned work with reports and executing on more than 70% of quarterly objectives
 - Wrote software for non-blocking projects, including interviewer invoicing, interviewer onboarding enhancements, and data transformations across AWS Lambda and ECS
-- Grew to six direct reports: software engineers ranging from intern to senior, data analysts, and a data scientist
+- Grew the team to six direct reports: software engineers ranging from intern to senior, data analysts, and a data scientist
 
 Senior Software Engineer\null\hfill March 2018 - March 2019
-
-Tackled thorny problems with a small team.
 
 - Designed and built a video chat application with Twilio to replace Google Hangouts
 - Built best practices through a blameless postmortem culture, design documents, sprints, and healthy code reviews
