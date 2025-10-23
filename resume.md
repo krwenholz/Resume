@@ -97,13 +97,9 @@ Senior Software Engineer\null\hfill March 2018 - March 2019
 
 Software Engineer III Google Cloud Deployment Manager\null\hfill February 2016 - March 2018
 
-\ornamentbreak
-
 ### Amazon.com, Seattle, WA
 
 Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - January 2016
-
-\ornamentbreak
 
 ### CentsLess LLC, Tacoma, WA
 
