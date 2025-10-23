@@ -55,7 +55,6 @@ Starting with Sport Sage (https://mysportsage.com), I tested startup ideas and l
 Director of Engineering\null\hfill July 2021 - May 2024
 
 - Managed 4 managers with 4 product teams and 1 infrastructure team
-- Drove monthly and quarterly planning processes across Product, Design, and Engineering
 - Owned and analyzed engineering spend of over $300,000/month across multiple vendors, coordinating engineering to control costs through network analysis, capacity reservations, and contract negotiations
 - Developed ngrok's SOC2 compliance program and penetration test for three successful audits
 - Managed technical relationships with Databricks, Dunkin', and other customers, working with them on multi-cloud deployments of ngrok, new features, incident management, and capacity planning
