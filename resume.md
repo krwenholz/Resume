@@ -20,6 +20,14 @@ http://linkedin.com/in/kyle-wenholz/
 
 12+ years building scalable systems and leading teams, specializing in DevOps, security and compliance, and talent development. Drove SOC2 programs from kickoff to clean audits in 60 days, scaled engineering organizations 3x, and managed $300k/month cloud spend. Built continuous deployment pipelines tripling developer velocity and led zero-downtime migrations handling thousands of QPS across AWS, PostgreSQL, and modern Python/Go stacks.
 
+## Technical Skills
+
+Languages & Frameworks: Python, Go, TypeScript, React, Phoenix
+
+Cloud & Infrastructure: AWS (Fargate, Lambda, RDS, CloudFront), Terraform, Kubernetes, GitHub Actions
+
+Databases & Observability: PostgreSQL, Snowflake, Datadog, Grafana, Metabase
+
 ## Work Experience
 
 ### Fay Nutrition Inc., Remote
@@ -32,8 +40,6 @@ Engineering\null\hfill January 2025 - Present
 - Rolled out AI tooling with Claude Code in GitHub Actions and local for PR reviews, code authoring, and search 
 - Led the backend implementation of in-app referrals: building for iOS and Android partners and launching to quick adoption by users
 
-**Languages and frameworks**: Python, TypeScript, Postgres, React, AWS Fargate
-
 \ornamentbreak
 
 ### Founder: Engineering, Product, and Sometimes Marketing Strategist
@@ -41,8 +47,6 @@ Engineering\null\hfill January 2025 - Present
 July 2024 - January 2025
 
 Starting with Sport Sage (https://mysportsage.com), I tested startup ideas and learned about the running of a proper business. This included testing the latest in LLM and web technologies, soliciting user feedback, marketing, business operations, and delivering magical user experiences.
-
-**Languages and frameworks**: Gemini API, LLMs, Elixir, Phoenix, Fly.io, Grafana
 
 \ornamentbreak
 
@@ -63,8 +67,6 @@ Director of Engineering\null\hfill July 2021 - May 2024
 Engineering Manager: Dataplane\null\hfill November 2020 - June 2021
 
 Coached, managed, and grew the Dataplane team. Brought in the first versions of multiple processes to improve communication, delivery, and happiness at ngrok: e.g. sprint planning, performance reviews, and cross-team syncs.
-
-**Languages and frameworks**: Go, AWS, Protobuf, Datadog, Terraform, Kubernetes
 
 \ornamentbreak
 
@@ -92,19 +94,11 @@ Senior Software Engineer\null\hfill March 2018 - March 2019
 - Built best practices through a blameless postmortem culture, design documents, sprints, and healthy code reviews
 - Organized and deployed all infrastructure as code with Terraform across a dozen AWS services with another engineer
 
-**Languages and frameworks**: Python, Ruby, JavaScript, Rails, PostgreSQL, Metabase, AWS, WebRTC, Twilio, Terraform
-
 \ornamentbreak
 
 ### Google, Seattle, WA
 
-Software Engineer III\null\hfill February 2016 - March 2018
-
-Wrote robust code for a challenging problem space, focusing on fault tolerance and correctness.
-I led intern projects, designed and built CLI utilities for Google Cloud Services, and improved
-testing and observability of the Deployment Manager service.
-
-**Languages and frameworks**: Python, Java, Google Cloud
+Software Engineer III Google Cloud Deployment Manager\null\hfill February 2016 - March 2018
 
 \ornamentbreak
 
@@ -112,20 +106,11 @@ testing and observability of the Deployment Manager service.
 
 Software Development Engineer I and II Warehouse Deals\null\hfill May 2013 - January 2016
 
-Cut my teeth with an incredible engineering team working in a messy and expensive part of
-the logistics chain: automating manual workflows, improving inventory tracking, reducing
-translation errors with tooling, automating software deployments, and teaching and learning
-through talks and writing.
-
-**Languages and frameworks**: Java, Spring, AWS
-
 \ornamentbreak
 
 ### CentsLess LLC, Tacoma, WA
 
 Co-Lead Engineer\null\hfill May 2012 - January 2013
-
-Built Lendingshack.com, a site for peer to peer sharing
 
 **Languages and frameworks**: Python, Django, Bootstrap, Heroku
 
@@ -133,6 +118,4 @@ Built Lendingshack.com, a site for peer to peer sharing
 
 ## Education
 
-Bachelor of Science in Computer Science and Mathematics
-
-University of Puget Sound, 2013
+Bachelor of Science in Computer Science and Mathematics\null\hfill University of Puget Sound, 2013
