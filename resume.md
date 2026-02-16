@@ -33,6 +33,7 @@ http://linkedin.com/in/kyle-wenholz/
 Engineering\null\hfill January 2025 - Present
 
 - Led Fay's first SOC2 audit from initial conversation to a clean Type 1 report in 60 days and a clean Type 2 in 120 days
+- Built Fay's dietitian payout system on Stripe, migrating 4,000 providers from Gusto and automating millions in monthly disbursements
 - Implemented Fay's first full continuous service deployment pipeline in GitHub Actions: tripled daily deploys per developer, saved developers an average of thirty minutes per day, and reduced mean time to change by half an hour
 - Designed and drove the backend migration of Fay's chat API off AWS's anemic Chime: supported thousands of new QPS to the endpoint without scaling up infrastructure, without downtime, and without force-migrating lagging mobile platforms
 - Rolled out AI tooling with Claude Code in GitHub Actions and locally for PR reviews, code authoring, and search 
