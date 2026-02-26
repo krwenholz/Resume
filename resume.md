@@ -30,7 +30,7 @@ http://linkedin.com/in/kyle-wenholz/
 
 ### Fay Nutrition Inc., Remote
 
-Engineering\null\hfill January 2025 - Present
+Staff Engineer - Office of the CTO\null\hfill January 2025 - Present
 
 - Led Fay's first SOC2 audit from initial conversation to a clean Type 1 report in 60 days and a clean Type 2 in 120 days
 - Built Fay's dietitian payout system on Stripe, migrating 4,000 providers from Gusto and automating millions in monthly disbursements
