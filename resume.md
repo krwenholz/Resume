@@ -1,6 +1,6 @@
 # Kyle R. Wenholz
 
-<kyle@krwenholz.com>
+<kyle@krw.dev>
 (406)546-9210
 http://linkedin.com/in/kyle-wenholz/
 
